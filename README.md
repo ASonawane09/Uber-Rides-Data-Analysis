@@ -81,6 +81,6 @@ This project is open-source and available under the MIT License.
 
 ## 👤 Author
 
-**Sameer Balkawade**  
-📧 sameerb2831@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sameer-balkawade/) | [GitHub](https://github.com/sameer2831)
+**Aakanksha Sonawane**  
+📧 aakanksha778@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aakanksha-sonawane/)
